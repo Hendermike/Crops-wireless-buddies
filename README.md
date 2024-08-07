@@ -13,8 +13,8 @@ The devices are communicated and coordinated through a series of nRF24L01-based 
 
 ## On-going developments
 
-## SoilRF
+### SoilRF
 
-## StreamerRF
+### StreamerRF
 
-## SoilRF
+### SoilRF
