@@ -24,8 +24,10 @@ Integrates a US sensor, and 3 AC water pumps to keep water level (WATER_IN, WATE
 
 ### StreamerRF
 
-Is intended to read all nRF relevant logical channels to keep track of
+Is intended to read all nRF24 relevant logical channels to keep track of the whole system locally and to upload the data to a cloud service, in order to make the system accesible to a web-based application.
 
 ### SoilRF
+
+Idem to Solution RF, but for soil-based substrates. Probably will only include watering control, based on soil humidity sensor.
 
 
